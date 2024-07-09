@@ -1,0 +1,1 @@
+Questi passaggi ti permetteranno di rimuovere tutti i file e directory nel tuo branch Test1.0, mantenendo solo il file alfabeto.txt. Assicurati di eseguire il backup di qualsiasi file importante prima di procedere con queste operazioni, poiché i file verranno eliminati dal branch.
