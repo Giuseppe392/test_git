@@ -1,0 +1,8 @@
+A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
+
+Queste sono le 21 lettere standard dell'alfabeto italiano:
+
+A, B, C, D, E, F, G, H, I, L, M, N, O, P, Q, R, S, T, U, V, Z
+E le 5 lettere straniere, che vengono usate in parole di origine straniera e nelle sigle:
+
+J, K, W, X, Y
